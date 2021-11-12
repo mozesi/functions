@@ -1,8 +1,7 @@
 print("This is the start of the function")
 def fun():
-    name =['Mose B Msukwa', 'Mose B Msukwa','Mose B Msukwa','Mose B Msukwa']
-
-    for a in name:
-        print( a)
-
+    word = "bananana bananana banananabanananabanananabananana"
+    word1  = word.split()
+    i = word.find("na")
+    print(word1)
 fun()
