@@ -8,3 +8,4 @@ for line in fileHandle:
         if line.startswith('From'):
             continue
         print(line.strip())
+        print("hello word")
