@@ -9,3 +9,10 @@ for line in fileHandle:
             continue
         print(line.strip())
         print("hello word")
+
+
+def addNumbers():
+    firstNumber = input("fist number")
+    ssecondNumber = input("second number")
+
+    print(firstNumber + ssecondNumber)
