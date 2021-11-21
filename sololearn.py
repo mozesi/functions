@@ -1,3 +1,9 @@
+# 1. print
+print("Python is fun")
+
+# multplication
+print(68*2)
+print(1000//1.6)
 
 #  1). Function for adding two numbers exercise from solo learn.
 def addNumbers():
